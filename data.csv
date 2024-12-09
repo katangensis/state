@@ -1,0 +1,5 @@
+Transaction Type,Account Number,Account Name,Transaction Date,Post Date,Reference Number,Description,Billing Amount,Source Currency,Source Amount,Employee Number
+MERCHANT,XXXXXXXXX123456,“JOHN DOE”,“01/21/2024”,“01/24/2024”,“12345689”,“PHONE BILL”,“100.00”,USD,“100.00”,
+,,,,,,Merchant Adresss: 123 Main ST NY Merchant Phone 1231234123 Postal Code: 43004,,,,
+MERCHANT,XXXXXXXXX320409,“BILL GREY”,“01/15/2024”,“01/20/2024”,"02493409",“GROCERIES”,"40.00",USD,“40.00”,“”
+,,,,,,Merchant Adresss: 434 Bo ST MF Merchant Phone 3203930230 Postal Code: 32030 ,,,,
